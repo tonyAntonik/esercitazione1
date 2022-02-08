@@ -17,7 +17,7 @@ public class Main {
 		prof2.materia="Informatica";
 		prof2.ore=21;
 		
-		
+		//commento
 		ArrayList<Professore>Professori= new ArrayList<Professore>();
 		
 		Professori.add(prof1);
